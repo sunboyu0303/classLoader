@@ -3,3 +3,5 @@
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/*.*
 /.idea/libraries/Maven__mysql_mysql_connector_java_5_1_17.xml
+/.idea
+/target
